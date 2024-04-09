@@ -9,11 +9,11 @@
     4.1 [Field Analysis](#fieldanalysis-1)<br>
     4.2 [Isocenter](#isocenter-2)<br>
     4.3 [EPID Sag](#epidsag-3)<br>
-    4.4 [MLC](#MLC-4)<br>
+    4.4 [MLC](#MLC-4)
     - 4.4.1 [Leaf Position Accuracy](#leafpositionaccuracy-41)<br>
     - 4.4.2 [Leaf Position Repeatibility](#leafpositionrepeat-42)<br>
     - 4.4.3 [Abuttment Fields Junction](#abuttmentfieldsjuction-43)<br>
-    - 4.4.4 [Leaf Travel Speed](#leaftravelspeed-44)<br>
+    - 4.4.4 [Leaf Travel Speed](#leaftravelspeed-44)
     
     4.5 [Dynamic Delivery](#dynamicdelivery-5)<br>
     4.6 [LINAC Overview](#linacoverview-6)<br>
