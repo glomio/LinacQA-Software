@@ -260,8 +260,4 @@ If **Plot Converted Images** is selected, each DICOM converted frame is shown.<b
 # <a id="contacts"> 6. Contacts </a>
 gloria.miori@gmail.com
 
-
 =======
-
-<img src='./4_MLOps_plan/MLOps_use_case_diagram.png' align='center' width = '500'>
-<img src='./4_MLOps_plan/store_replanishment_workstream_MLOps.png' align='center' width = '1000'>
