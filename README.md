@@ -72,7 +72,7 @@ The **settings_file.csv** file defines the machine specific settings needed for 
         **field_size_options** is the list of possible open fields size analysis in the Field Analysis and Dynamic Delivery tabs.<br>
         **MLC_arrangement** describes the LINAC MLC details, specifying the number of leaves and leaves width. It reads tuples of values.<br>
         **MLC_nominal_speed** describes the vendor defined nominal leaves speed.<br>
-        ***DDC_analysis_list*** describes the names of dynamic delivery control tests run on the DDC tab. This names are used for correctly saving results.<br>
+        **DDC_analysis_list** describes the names of dynamic delivery control tests run on the DDC tab. This names are used for correctly saving results.<br>
         **machineSAD** defines the SAD, while **imageSID** defines the SID of the LINAC. **imagepixelspacing** defines the Image Pixel Spacing DICOM tag of the Elekta movie format. These last 3 settings are used for correctly converting Elekta Movie format into a DICOM series.<br>
         Defalut values appearing the the GUI are as well set in this file (see specific tabs).<br>
 <br>
