@@ -41,11 +41,12 @@ The LinacQA.exe file can be run on any Windows computer without the need of inst
 <br>
 The following files must be in the same folder as the executable:<br>
 - settings_file.csv<br>
-- acceptance_criterias.csv<br>
+- acceptance_criteria.csv<br>
 - fields_delivery_order_junction.csv<br>
 - fields_delivery_order_MLC.csv<br>
 - fields_delivery_order_speed.csv<br>
 - fields_delivery_order_WL.csv<br>
+The images must be in the *images* folder where the executable is:<br>
 - AbuttmentFieldsJunction.png<br>
 - DDC.png<br>
 - FieldAnalysis.png<br>
