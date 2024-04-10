@@ -56,7 +56,7 @@ The images must be in the **images** folder where the executable is:<br>
 - LeafPositionAccuracy.png<br>
 - LeafTravelSpeed.png<br>
 
-The LinaQA.py file runs on Python version 3.8.13.<br>
+The LinacQA.py file runs on Python version 3.8.13.<br>
 All packages required are listed in:<br>
 
     requirements_linacQA.txt
