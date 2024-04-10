@@ -30,7 +30,7 @@ The program performs different analysis:<br>
 - The first tab evaluates field size, flatness and symmetry (consistency check for test 2.D.1.14<sup>(2)</sup>);<br>
 - The second tab analyses Winston-Lutz (WL) images to assess gantry, collimator and couch isocenter sizes and the coincidence between mechanical/radiation or CBCT/radiation isocenters (tests 2.D.2<sup>(2)</sup>, in particular 2.D.2.1<sup>(2)</sup>, 2.D.2.2<sup>(2)</sup>, 2.D.2.3<sup>(2)</sup> and 2.D.2.5<sup>(2)</sup>. It can be used for 2.F.3.3<sup>(2)</sup> as well);<br>
 - The third tab calculates EPID sag;<br>
-- The fourth tab assesses MLCs performances: leaf position accuracy (tests 2.F.2.1<sup>(2)</sup>, 2.F.2.2<sup>(2)</sup>, 2.F.2.4<sup>(2)</sup>) and repeatability (2.F.3.2<sup>(2)</sup>), abutting fields junctions (2.F.1.1<sup>(2)</sup>), leaf travel speed (2.F.2.3<sup>(2)</sup>);<br>
+- The fourth tab assesses MLCs performances: leaf position accuracy (tests 2.F.2.1<sup>(2)</sup>, 2.F.2.2<sup>(2)</sup>, 2.F.2.4<sup>(2)</sup> or test or test MLC2<sup>(3)</sup>) and repeatability (2.F.3.2<sup>(2)</sup>), abutting fields junctions (2.F.1.1<sup>(2)</sup>), leaf travel speed (2.F.2.3<sup>(2)</sup>);<br>
 - The fifth tab can perform Dynamic Delivery control (DDC) tests D5<sup>(3)</sup>. To evaluate DCC we used an IBA Matrixx detector.<br>
 - LINAC performances over time are shown in the sixth tab.<br>
 - The last tab converts Elekta Movie format to a DICOM series to be able to evaluate Leaf Travel Speed;<br>
@@ -147,7 +147,7 @@ The MLC tab runs several AAPM TG 142/198 tests to evaluate MLCs performances.<br
 
 Leaf Position Accuracy test analyses both relative and absolute MLC position errors;<br>
 For the MLCs analysis, we modified the Pylinac algorithm to calculate absolute leaves positions (as recommended by TG-142) and single leaf error analysis. Absolute leaves positions are calculated from the radiation field center, identified by the use of 4 additional small square fields images at different collimator positions. Relative leaves positions to the median leaves position are also performed. 
-This tab can be used to evaluate AAPM TG198 2.F.2.1, 2.F.2.2, 2.F.2.4 tests on MLCs.<br>
+This tab can be used to evaluate AAPM TG198 2.F.2.1, 2.F.2.2, 2.F.2.4 tests on MLCs or test MLC2<sup>(3)</sup>.<br>
 <br>
 In the **acceptance_criterias** file, MLC_rel_pos_perc_failed, MLC_rel_pos_max_error refers to relative position errors acceptance criterias, while MLC_abs_pos_perc_failed and MLC_abs_pos_max_error refers to absolute position errors. MLC_abs_banks_offset is the acceptance criteria for Y2 Offset and Y1 Offset in the GUI, while MLC_mean_picket_width_acc is the acceptance criteria for Measured Picket Width. MLC_skew is the acceptance criteria for MLC apparent skew in the GUI.<br>
 In **Open Folder** select the folder with MLC acquired DICOM images and the 4 additional small square fields images, if absolute error analysis is done. It is important to start delivering the MLC beams being sure gantry and collimator angle = 0.00 degrees. Deliver the 4 small square fields images with different collimator positions at the end of the test.<br>
