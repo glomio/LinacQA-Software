@@ -46,8 +46,8 @@ The following files must be in the same folder as the executable:<br>
 - fields_delivery_order_MLC.csv<br>
 - fields_delivery_order_speed.csv<br>
 - fields_delivery_order_WL.csv<br>
-<br>
-The images must be in the *images* folder where the executable is:<br>
+
+The images must be in the **images** folder where the executable is:<br>
 
 - AbuttmentFieldsJunction.png<br>
 - DDC.png<br>
