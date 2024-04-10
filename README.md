@@ -28,8 +28,7 @@ LinacQA is a software for evaluating several AAPM reports <sup>(1)(2)(3)</sup> p
 <br>
 The program performs different analysis:<br>
 - The first tab evaluates field size, flatness and symmetry (consistency check for test 2.D.1.14<sup>(2)</sup>);<br>
-- The second tab analyses Winston-Lutz (WL) images to assess gantry, collimator and couch isocenter sizes and the coincidence between mechanical/radiation or CBCT/radiation isocenters (tests 2.D.2<sup>(2)</sup>, in particular 2.D.2.1<sup>(2)</sup>, 2.D.2.2<sup>(2)</sup>, 2.D.2.3<sup>(2)</sup> and 2.D.2.5<sup>(2)</sup>. It can be used for 2.F.3.3<sup>(2)</sup> as well; or tests M11<sup>(3)</sup> and MLC4<sup>(3)</sup>);
-<br>
+- The second tab analyses Winston-Lutz (WL) images to assess gantry, collimator and couch isocenter sizes and the coincidence between mechanical/radiation or CBCT/radiation isocenters (tests 2.D.2<sup>(2)</sup>, in particular 2.D.2.1<sup>(2)</sup>, 2.D.2.2<sup>(2)</sup>, 2.D.2.3<sup>(2)</sup> and 2.D.2.5<sup>(2)</sup>. It can be used for 2.F.3.3<sup>(2)</sup> as well; or tests M11<sup>(3)</sup> and MLC4<sup>(3)</sup>;<br>
 - The third tab calculates EPID sag;<br>
 - The fourth tab assesses MLCs performances: leaf position accuracy (tests 2.F.2.1<sup>(2)</sup>, 2.F.2.2<sup>(2)</sup>, 2.F.2.4<sup>(2)</sup> or test MLC2<sup>(3)</sup>) and repeatability (2.F.3.2<sup>(2)</sup>), abutting fields junctions (2.F.1.1<sup>(2)</sup>), leaf travel speed (2.F.2.3<sup>(2)</sup>);<br>
 - The fifth tab can perform Dynamic Delivery control (DDC) tests D5<sup>(3)</sup>. To evaluate DCC we used an IBA Matrixx detector.<br>
