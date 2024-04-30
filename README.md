@@ -88,7 +88,6 @@ G. Miori, M. Chieregato, C. Rancan, M. Galelli. PD-01.44 - DEVELOPMENT AND VALID
 https://doi.org/10.1016/j.ejmp.2023.103018.<br>
 <br>
 ESTRO 2024 Digital Poster:<br>
-<br>
 G. Miori, M. Chieregato, C. Rancan, M. Galelli<br>
 **DEVELOPMENT AND VALIDATION OF AN EPID BASED SOFTWARE FOR LINAC QA BUILT ON A FREE PYTHON PACKAGE**<br>
 Track: Physics<br>
