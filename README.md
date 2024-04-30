@@ -91,7 +91,7 @@ ESTRO 2024 Digital Poster:<br>
 G. Miori, M. Chieregato, C. Rancan, M. Galelli<br>
 **DEVELOPMENT AND VALIDATION OF AN EPID BASED SOFTWARE FOR LINAC QA BUILT ON A FREE PYTHON PACKAGE**<br>
 Track: Physics<br>
-Topic: Quality assuracne and auditing<br>
+Topic: Quality assurance and auditing<br>
 Poster number: 1766<br>
 # <a id="softwaretabs"> 4. Software Tabs </a>
 
