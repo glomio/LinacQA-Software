@@ -64,6 +64,11 @@ All packages required are listed in:<br>
 The project is stored in:<br>
 
     https://github.com/glomio/LinacQA-Software
+
+The LinacQA-Software .exe file can be dowloaded here:<br>
+
+https://www.dropbox.com/scl/fi/w601qsgklrlaxxj87mmqs/dist.zip?rlkey=zpdz1wehe089zqyvtb5bb716t&st=18d3tgfk&dl=0
+
 ***
 The **settings_file.csv** file defines the machine specific settings needed for the analysis, together with the default parameters values.<br>
         **save_file_name** defines the excel file where storing the results. An excel file for each machine will be automatically created by running the first analysis. The complete filename for each machine is save_file_name underscore machine_name. The machine name is read from the analyzed DICOM file: DICOM TAG (0008,1010) and compared to the **machine_list**. Make sure the Station Name DICOM tag includes the machine name as specified in machine_list<br>
