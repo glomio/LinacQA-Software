@@ -85,15 +85,15 @@ The **acceptance_criterias.csv** file defines the acceptance criterias for all L
 # <a id="citationanddistribution"> 3. Citation and distribution </a>
 
 G. Miori, M. Chieregato, C. Rancan, M. Galelli. PD-01.44 - DEVELOPMENT AND VALIDATION OF AN EPID BASED SOFTWARE FOR LINAC QA BUILT ON A FREE PYTHON PACKAGE,Physica Medica, Volume 115, Supplement 1,2023,103018,<br>
-https://doi.org/10.1016/j.ejmp.2023.103018.
+https://doi.org/10.1016/j.ejmp.2023.103018.<br>
 <br>
 ESTRO 2024 Digital Poster:<br>
+<br>
 G. Miori, M. Chieregato, C. Rancan, M. Galelli<br>
-DEVELOPMENT AND VALIDATION OF AN EPID BASED SOFTWARE FOR LINAC QA BUILT ON A FREE PYTHON PACKAGE<br>
+**DEVELOPMENT AND VALIDATION OF AN EPID BASED SOFTWARE FOR LINAC QA BUILT ON A FREE PYTHON PACKAGE**<br>
 Track: Physics<br>
 Topic: Quality assuracne and auditing<br>
 Poster number: 1766<br>
-<br>
 # <a id="softwaretabs"> 4. Software Tabs </a>
 
 ## <a id="fieldanalysis-1"> 4.1 Field Analysis </a>
